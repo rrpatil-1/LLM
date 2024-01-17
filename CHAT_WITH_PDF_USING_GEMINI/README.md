@@ -45,7 +45,7 @@ To use the Gemini Pro LLM model, you need to obtain an API key. Follow these ste
 
 ## User Interface
 
-![img.png](img.png)
+![img.png](UserInterface.jpeg)
 
 ### Additional Notes
 Make sure to handle sensitive information like API keys securely and avoid sharing them publicly.
