@@ -4,7 +4,7 @@ This project leverages the Gemini Pro LLM model, LanguageChain, Streamlit, and P
 
 ## Tech Stack
 - [Gemini Pro LLM model](https://ai.google.dev/tutorials/python_quickstart)
-- LanguageChain
+- LangChain
 - [Streamlit](https://streamlit.io/)
 - Python
 
